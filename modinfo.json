@@ -1,0 +1,24 @@
+ {
+   "context": "client",
+   "identifier": "com.pa.fabberking.devbiome.client",
+   "display_name": "Grid biome for System Designer client",
+   "description": "Adds a biome with a large grid for easy placement of csg",
+   "author": "FABBERKING",
+   "version": "1.0",
+   "build": "112595",
+   "date": "2019-01-31",
+   "signature": "",
+   "forum": "",
+   "priority": 100,
+   "icon": "https://i.imgur.com/BO1XmLX.png",
+   "searchable": [
+        "grid",
+        "biome",
+        "system",
+        "editor",
+        "designer",
+        "development",
+        ""    ],
+   "category": ["biome"],
+    "scenes":    {        "system_editor":        [            "coui://ui/mods/development_biome/system_editor.js"        ]    }
+ }
