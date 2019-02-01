@@ -10,14 +10,6 @@
    "signature": "",
    "forum": "",
    "priority": 100,
-   "searchable": [
-        "grid",
-        "biome",
-        "system",
-        "editor",
-        "designer",
-        "development",
-        ""    ],
    "icon": "https://i.imgur.com/BO1XmLX.png",
    "category": ["biome"],
     "scenes":    {        "system_editor":        [            "coui://ui/mods/grid_biome/system_editor.js"        ]    }
