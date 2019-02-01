@@ -1,0 +1,6 @@
+{"name":"moon",
+"color":[0.5,0.5,0.5,1],
+"base_texture":"/pa/terrain/grid_biome/textures/base/devbiome_tile_diffuse.papa",
+"normal_texture":"/pa/terrain/sandbox/textures/base/sandbox_tile_normal.papa",
+"material_texture":"/pa/terrain/sandbox/textures/base/sandbox_tile_material.papa",
+"layers":[{"note":"0","disable":true,"noise":{"scale":1.5,"zoom":1,"type":"simplex"}},{"note":"1","noise":{"scale":1,"zoom":1,"type":"simplex"}},{"note":"2","noise":{"scale":3,"zoom":2,"type":"simplex"}},{"note":"3","noise":{"scale":4,"zoom":10,"type":"simplex"}},{"note":"4","inherit_noise":true},{"note":"5","inherit_noise":true},{"note":"6","inherit_noise":true},{"note":"7","inherit_noise":true},{"note":"8","inherit_noise":true},{"note":"9","inherit_noise":true},{"note":"10","inherit_noise":true},{"note":"11","inherit_noise":true},{"note":"12","inherit_noise":true},{"note":"13","inherit_noise":true},{"note":"14","inherit_noise":true},{"note":"15","inherit_noise":true},{"note":"16","inherit_noise":true},{"note":"17","inherit_noise":true}],"brushes":[],"features":[],"decals":[]}
